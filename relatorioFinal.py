@@ -138,9 +138,9 @@ st.markdown("""Pergunta:
 """)
 
 
-st.image('LogoD3.jpeg')
+# st.image('LogoD3.jpeg')
 
-st.markdown(""" Com base na imagem, observamos que não.""")
+# st.markdown(""" Com base na imagem, observamos que não.""")
 
 st.markdown("""# Teste de Hipóteses
 
